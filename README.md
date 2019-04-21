@@ -1,11 +1,11 @@
 # This is a main repository
 This **repository** was made to learn a process of work with Git and Github a little. Feel free to take a look at it @smile!
 
-## This is 2nd level header
-### This is 3nd level header
-#### This is 4nd level header
-##### This is 5nd level header
-###### This is 6nd level header
+## GitHub is an octocat
+### I hate Java
+#### It is a data
+##### London is a capital of Great Britain
+###### It is funny
 
 Let's try to make a list:
 - Python
